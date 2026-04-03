@@ -1,3 +1,6 @@
-**Translation of Text using LLM Model**
+## **Translation of Text using LLM Model**
 
-Gemini Model has been used to translate the text from a given language to English.
+## Project Overview
+
+- Built a chatbot for English-to-Arabic translation  
+- Utilized Gemini 3.1 Flash Lite Preview model for fast and efficient translations  
